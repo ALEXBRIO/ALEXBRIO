@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/ALEXBRIO/">ALEXBRIO</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I’m deeply interested in cybersecurity and thrive on solving complex problems through practical, hands-on projects. Feel free to explore them and see how I’ve contributed to improving security operations and processes!
 
 
 ## ⚠️ Vulnerability Management Projects
