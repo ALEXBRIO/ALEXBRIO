@@ -10,8 +10,7 @@ I’m deeply interested in cybersecurity and thrive on solving complex problems 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ALEXBRIO/Threat-Hunting-Scenario/blob/main/threat-hunting-scenario-tor-event-creation.md)
-
+- **[Threat Hunting Scenario (Tor Browser Usage)]https://github.com/ALEXBRIO/Threat-Hunting-Scenario
 <hr/>
 
 ## 🤳 Connect With Me
